@@ -5,7 +5,6 @@ print("|    Name : Trisha Sarkar                        |")
 print("|    Version : 01                                |")
 print("|                                                |")
 print(" ------------------------------------------------")
-print("Hello")
 
 TeachName = input("Teacher name (try Mr Horan) " )
 if TeachName == "Mr Horan":
